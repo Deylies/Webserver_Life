@@ -1,0 +1,9 @@
+templates/*
+static/*
+db/*
+*.pyc
+.idea/*
+__pycache__/*
+*.pyc
+logs/*
+~$$*
