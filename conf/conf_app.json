@@ -1,0 +1,3 @@
+{
+  "init_dir":["templates","static","logs","apps","conf","db"]
+}
