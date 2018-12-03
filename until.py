@@ -13,8 +13,6 @@ class Conf(dict):
         dict_keys(['init_dir'])
         >>> conf_app.desc()
         name:init_dir type:<class 'list'> size:6
-
-
     """
     def __init__(self, conf_name):
         super().__init__()
